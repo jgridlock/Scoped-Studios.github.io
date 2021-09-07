@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/scoped-studios.github.io/static/css/main.a617e044.chunk.css",
-    "main.js": "/scoped-studios.github.io/static/js/main.2bf5a215.chunk.js",
-    "main.js.map": "/scoped-studios.github.io/static/js/main.2bf5a215.chunk.js.map",
+    "main.js": "/scoped-studios.github.io/static/js/main.086e3b7f.chunk.js",
+    "main.js.map": "/scoped-studios.github.io/static/js/main.086e3b7f.chunk.js.map",
     "runtime-main.js": "/scoped-studios.github.io/static/js/runtime-main.c5a93585.js",
     "runtime-main.js.map": "/scoped-studios.github.io/static/js/runtime-main.c5a93585.js.map",
-    "static/js/2.84e9faf7.chunk.js": "/scoped-studios.github.io/static/js/2.84e9faf7.chunk.js",
-    "static/js/2.84e9faf7.chunk.js.map": "/scoped-studios.github.io/static/js/2.84e9faf7.chunk.js.map",
+    "static/js/2.f3383eca.chunk.js": "/scoped-studios.github.io/static/js/2.f3383eca.chunk.js",
+    "static/js/2.f3383eca.chunk.js.map": "/scoped-studios.github.io/static/js/2.f3383eca.chunk.js.map",
     "static/js/3.1a0f6477.chunk.js": "/scoped-studios.github.io/static/js/3.1a0f6477.chunk.js",
     "static/js/3.1a0f6477.chunk.js.map": "/scoped-studios.github.io/static/js/3.1a0f6477.chunk.js.map",
     "index.html": "/scoped-studios.github.io/index.html",
     "static/css/main.a617e044.chunk.css.map": "/scoped-studios.github.io/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.84e9faf7.chunk.js.LICENSE.txt": "/scoped-studios.github.io/static/js/2.84e9faf7.chunk.js.LICENSE.txt",
+    "static/js/2.f3383eca.chunk.js.LICENSE.txt": "/scoped-studios.github.io/static/js/2.f3383eca.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/scoped-studios.github.io/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.c5a93585.js",
-    "static/js/2.84e9faf7.chunk.js",
+    "static/js/2.f3383eca.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.2bf5a215.chunk.js"
+    "static/js/main.086e3b7f.chunk.js"
   ]
 }
