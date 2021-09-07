@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/scoped-studios.github.io/static/css/main.a617e044.chunk.css",
-    "main.js": "/scoped-studios.github.io/static/js/main.086e3b7f.chunk.js",
-    "main.js.map": "/scoped-studios.github.io/static/js/main.086e3b7f.chunk.js.map",
-    "runtime-main.js": "/scoped-studios.github.io/static/js/runtime-main.c5a93585.js",
-    "runtime-main.js.map": "/scoped-studios.github.io/static/js/runtime-main.c5a93585.js.map",
-    "static/js/2.f3383eca.chunk.js": "/scoped-studios.github.io/static/js/2.f3383eca.chunk.js",
-    "static/js/2.f3383eca.chunk.js.map": "/scoped-studios.github.io/static/js/2.f3383eca.chunk.js.map",
-    "static/js/3.1a0f6477.chunk.js": "/scoped-studios.github.io/static/js/3.1a0f6477.chunk.js",
-    "static/js/3.1a0f6477.chunk.js.map": "/scoped-studios.github.io/static/js/3.1a0f6477.chunk.js.map",
-    "index.html": "/scoped-studios.github.io/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/scoped-studios.github.io/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.f3383eca.chunk.js.LICENSE.txt": "/scoped-studios.github.io/static/js/2.f3383eca.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/scoped-studios.github.io/static/media/logo.6ce24c58.svg"
+    "main.css": "/Scoped-Studios.github.io/static/css/main.a617e044.chunk.css",
+    "main.js": "/Scoped-Studios.github.io/static/js/main.086e3b7f.chunk.js",
+    "main.js.map": "/Scoped-Studios.github.io/static/js/main.086e3b7f.chunk.js.map",
+    "runtime-main.js": "/Scoped-Studios.github.io/static/js/runtime-main.9a5cbbe9.js",
+    "runtime-main.js.map": "/Scoped-Studios.github.io/static/js/runtime-main.9a5cbbe9.js.map",
+    "static/js/2.f3383eca.chunk.js": "/Scoped-Studios.github.io/static/js/2.f3383eca.chunk.js",
+    "static/js/2.f3383eca.chunk.js.map": "/Scoped-Studios.github.io/static/js/2.f3383eca.chunk.js.map",
+    "static/js/3.1a0f6477.chunk.js": "/Scoped-Studios.github.io/static/js/3.1a0f6477.chunk.js",
+    "static/js/3.1a0f6477.chunk.js.map": "/Scoped-Studios.github.io/static/js/3.1a0f6477.chunk.js.map",
+    "index.html": "/Scoped-Studios.github.io/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/Scoped-Studios.github.io/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.f3383eca.chunk.js.LICENSE.txt": "/Scoped-Studios.github.io/static/js/2.f3383eca.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Scoped-Studios.github.io/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c5a93585.js",
+    "static/js/runtime-main.9a5cbbe9.js",
     "static/js/2.f3383eca.chunk.js",
     "static/css/main.a617e044.chunk.css",
     "static/js/main.086e3b7f.chunk.js"
